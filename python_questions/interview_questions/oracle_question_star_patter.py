@@ -71,3 +71,11 @@ def traingle(depth, r):
             j += j
 
 traingle(5,5)
+
+
+d1 = {'user': {'id': 1, 'settings': {'theme': 'dark'}}, 'version': '1.0', 'xzy': 1, 'x': {}}
+
+print(type(d1['user']))
+
+if type(d1['user']) == '<class '''dict'''>:'
+    print('here')

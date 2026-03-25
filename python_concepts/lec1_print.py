@@ -17,3 +17,5 @@ print(f"length is {length}")
 # print using format method
 print("the length is {}".format(length))
 
+x = input('enter some number')
+
